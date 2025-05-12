@@ -3,6 +3,6 @@
 * ☕ professionally Java Developer
 * ✨ working on some hobby projects here
 
-[![General stats](https://github-readme-stats.vercel.app/api?username=oytech&title_color=0969da&custom_title=General%20stats&hide_rank=true&show_icons=true&icon_color=0969da&card_width=333)](https://github.com/anuraghazra/github-readme-stats)
+[![General stats](https://github-readme-stats.vercel.app/api?username=oytech&title_color=0969da&custom_title=General%20stats&hide_rank=true&show_icons=true&icon_color=59636e&text_color=59636e&card_width=333&text_bold=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Most Used languages](https://github-readme-stats.vercel.app/api/top-langs?username=oytech&title_color=0969da&layout=compact&card_width=333)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used languages](https://github-readme-stats.vercel.app/api/top-langs?username=oytech&title_color=0969da&layout=compact&text_color=59636e&card_width=333)](https://github.com/anuraghazra/github-readme-stats)
