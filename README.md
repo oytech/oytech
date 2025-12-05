@@ -1,4 +1,1 @@
-# Hello! I'm Wojciech
-
-* ☕ professionally Java Developer
-* ✨ working on some hobby projects here
+Someday I'll finish my hobby projects
