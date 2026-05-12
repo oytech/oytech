@@ -1,6 +1,5 @@
-Someday I'll finish some side project.
+Someday I'll finish some side project. In the meantime I'm contributing:  
 
-Contributing:  
 [macports/macports-ports](https://github.com/macports/macports-ports) - port maintainer ([repology.org/maintainer/oytech@github](https://repology.org/maintainer/oytech%40github))  
 [![prs badge](https://img.shields.io/github/issues-search/macports/macports-ports?query=author%3Aoytech%20is%3Apr%20is%3Amerged%20&label=PRs%20merged)](https://github.com/macports/macports-ports/pulls?q=is%3Amerged+is%3Apr+author%3Aoytech+)  
 [benjajaja/mdfried](https://github.com/benjajaja/mdfried)  
