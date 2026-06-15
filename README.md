@@ -1,6 +1,6 @@
 Someday I'll finish some side project.
 
-### Contributing
+**Contributing**
 
 I maintain few [macports](https://www.macports.org/) ports - [repology.org/maintainer/oytech@github](https://repology.org/maintainer/oytech%40github)
 
