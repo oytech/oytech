@@ -1,8 +1,8 @@
 Someday I'll finish some side project.
 
-**Contributing**
+I maintain few [MacPorts](https://www.macports.org/) [ports](http://ports.macports.org/maintainer/oytech) ([repology](https://repology.org/maintainer/oytech%40github)).
 
-I maintain few [MacPorts](https://www.macports.org/) ports - [repology.org/maintainer/oytech@github](https://repology.org/maintainer/oytech%40github)
+**Contributing**
 
 **2026**  
 [macports/macports-ports](https://github.com/macports/macports-ports) | [**58 PRs (+1853 -412)**](https://github.com/macports/macports-ports/pulls?q=author%3Aoytech%20is%3Apr%20is%3Amerged%20created%3A2026-01-01..2026-12-31)  
